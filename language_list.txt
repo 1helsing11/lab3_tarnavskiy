@@ -1,0 +1,137 @@
+№    ISO-639 code  Language Name       Text exapmle
+------------------------------------------------------------
+1.   af           afrikaans           	alles vir jou my vriend
+2.   sq           albanian            	gjithcka per ty miku im
+3.   am           amharic             	ሁሉን ነገር ላንተ ወዳጄ
+4.   ar           arabic              	كل شيء بالنسبة لك يا صديقي
+5.   hy           armenian            	ամեն ինչ քեզ համար իմ ընկեր
+6.   as           assamese            	তোমাৰ বাবে সকলো মোৰ বন্ধু
+7.   ay           aymara              	taqi kunas jumatakiw amigoja
+8.   az           azerbaijani         	hər şey sənin üçün dostum
+9.   bm           bambara             	fɛn bɛɛ ye i ye n terikɛ
+10.  eu           basque              	dena zuretzat nire laguna
+11.  be           belarusian          	усё для цябе мой сябар
+12.  bn           bengali             	আমার বন্ধু তোমার জন্য সবকিছু
+13.  bho          bhojpuri            	सब कुछ तोहरा खातिर हमार दोस्त
+14.  bs           bosnian             	sve za tebe prijatelju
+15.  bg           bulgarian           	всичко за теб приятелю
+16.  ca           catalan             	tot per tu amic meu
+17.  ceb          cebuano             	tanan para nimo akong amigo
+18.  ny           chichewa            	zonse za iwe mzanga
+19.  zh-CN        chinese (simplified)	一切都为了你，我的朋友
+20.  zh-TW        chinese (traditional)	一切都為了你，我的朋友
+21.  co           corsican            	tuttu per tè u mo amicu
+22.  hr           croatian            	sve za tebe prijatelju
+23.  cs           czech               	vše pro tebe, příteli
+24.  da           danish              	alt for dig min ven
+25.  dv           dhivehi             	ހުރިހާ ކަމެއް ކަލެއަށްޓަކައި އަހަރެންގެ އެކުވެރިޔާ
+26.  doi          dogri               	सब कुछ तेरे वास्ते मेरे दोस्त
+27.  nl           dutch               	alles voor jou, mijn vriend
+28.  en           english             	everything for you friend
+29.  eo           esperanto           	ĉio por vi mia amiko
+30.  et           estonian            	kõik sinu jaoks, mu sõber
+31.  ee           ewe                 	nusianu na wò xɔ̃nye
+32.  tl           filipino            	lahat para sayo kaibigan ko
+33.  fi           finnish             	kaikki sinulle ystäväni
+34.  fr           french              	tout pour toi mon ami
+35.  fy           frisian             	alles foar dy myn freon
+36.  gl           galician            	todo para ti meu amigo
+37.  ka           georgian            	ყველაფერი შენთვის მეგობარო
+38.  de           german              	Alles für dich, mein Freund
+39.  el           greek               	όλα για σένα φίλε μου
+40.  gn           guarani             	opa mba'e ndéve guarã che angirũ
+41.  gu           gujarati            	મારા મિત્ર તમારા માટે બધું
+42.  ht           haitian creole      	tout bagay pou ou zanmim
+43.  ha           hausa               	komai naka abokina
+44.  haw          hawaiian            	na mea a pau nou e kuu hoa
+45.  iw           hebrew              	הכל בשבילך ידידי
+46.  hi           hindi               	सब कुछ तुम्हारे लिए मेरे दोस्त
+47.  hmn          hmong               	txhua yam rau koj tus phooj ywg
+48.  hu           hungarian           	mindent érted barátom
+49.  is           icelandic           	allt fyrir þig vinur minn
+50.  ig           igbo                	ihe niile maka gi enyim
+51.  ilo          ilocano             	amin para kenka gayyemko
+52.  id           indonesian          	segalanya untukmu temanku
+53.  ga           irish               	gach rud duit a chara
+54.  it           italian             	tutto per te amico mio
+55.  ja           japanese            	すべてはあなたのために、私の友人
+56.  jw           javanese            	kabeh kanggo sampeyan kancaku
+57.  kn           kannada             	ನಿನಗಾಗಿ ಎಲ್ಲವೂ ನನ್ನ ಸ್ನೇಹಿತ
+58.  kk           kazakh              	бәрі сен үшін досым
+59.  km           khmer               	អ្វីគ្រប់យ៉ាងសម្រាប់អ្នកមិត្តរបស់ខ្ញុំ
+60.  rw           kinyarwanda         	byose kuri wewe nshuti yanjye
+61.  gom          konkani             	सगळें तुजे खातीर म्हज्या इश्टा
+62.  ko           korean              	너를 위한 모든 것 내 친구
+63.  kri          krio                	evritin fo yu mi padi
+64.  ku           kurdish (kurmanji)  	her tişt ji bo te hevalê min
+65.  ckb          kurdish (sorani)    	هەموو شتێک بۆ تۆ هاوڕێکەم
+66.  ky           kyrgyz              	баары сен үчүн досум
+67.  lo           lao                 	ທຸກ​ສິ່ງ​ທຸກ​ຢ່າງ​ສໍາ​ລັບ​ທ່ານ​ຫມູ່​ເພື່ອນ​ຂອງ​ຂ້າ​ພະ​ເຈົ້າ​
+68.  la           latin               	omnia tibi amice
+69.  lv           latvian             	viss priekš tevis mans draugs
+70.  ln           lingala             	nionso pona yo moninga na ngai
+71.  lt           lithuanian          	viskas tau, mano drauge
+72.  lg           luganda             	buli kimu ku lulwo munange
+73.  lb           luxembourgish       	alles fir dech mäi Frënd
+74.  mk           macedonian          	се за тебе пријателе
+75.  mai          maithili            	सब किछु अहाँक लेल हमर मित्र
+76.  mg           malagasy            	ny zavatra rehetra ho anao ry namana
+77.  ms           malay               	segalanya untukmu kawan
+78.  ml           malayalam           	എല്ലാം നിനക്കായി സുഹൃത്തേ
+79.  mt           maltese             	kollox għalik ħabib tiegħi
+80.  mi           maori               	nga mea katoa mo koe e hoa
+81.  mr           marathi             	माझ्या मित्रा तुझ्यासाठी सर्व काही
+82.  mni-Mtei     meiteilon (manipuri)	ꯄꯨꯝꯅꯃꯛ ꯅꯉꯒꯤꯗꯃꯛ ꯑꯩꯒꯤ ꯏꯔꯩꯕꯥꯀꯆꯥ꯫
+83.  lus          mizo                	engkim i tan ka thianpa
+84.  mn           mongolian           	найз минь чиний төлөө бүх зүйл
+85.  my           myanmar             	အရာအားလုံး မင်းအတွက် ငါ့သူငယ်ချင်း
+86.  ne           nepali              	तिम्रो लागि सबै कुरा मेरो साथी
+87.  no           norwegian           	alt for deg min venn
+88.  or           odia (oriya)        	ମୋର ବନ୍ଧୁ ତୁମ ପାଇଁ ସବୁକିଛି |
+89.  om           oromo               	waan hunda siif fira koo
+90.  ps           pashto              	هر څه ستا لپاره زما ملګري
+91.  fa           persian             	همه چیز برای تو دوست من
+92.  pl           polish              	wszystko dla ciebie, przyjacielu
+93.  pt           portuguese          	tudo para você meu amigo
+94.  pa           punjabi             	ਮੇਰੇ ਦੋਸਤ ਤੁਹਾਡੇ ਲਈ ਸਭ ਕੁਝ
+95.  qu           quechua             	tukuy ima qanpaq amigoy
+96.  ro           romanian            	totul pentru tine prietene
+97.  ru           russian             	все для тебя друг
+98.  sm           samoan              	mea uma mo oe la'u uo
+99.  sa           sanskrit            	सर्वं भवतः कृते मम मित्र
+100. gd           scots gaelic        	a h-uile rud dhut mo charaid
+101. nso          sepedi              	se sengwe le se sengwe go wena mogwera wa ka
+102. sr           serbian             	све за тебе пријатељу
+103. st           sesotho             	tsohle bakeng sa hao motsoalle oa ka
+104. sn           shona               	zvese zvako shamwari yangu
+105. sd           sindhi              	سڀ ڪجھ توھان لاءِ دوست
+106. si           sinhala             	මගේ මිතුරා ඔබ වෙනුවෙන් සියල්ල
+107. sk           slovak              	všetko pre teba priateľ môj
+108. sl           slovenian           	vse zate moj prijatelj
+109. so           somali              	wax walba adiga saaxiib
+110. es           spanish             	todo para ti mi amigo
+111. su           sundanese           	sagalana pikeun anjeun sobat
+112. sw           swahili             	kila kitu kwa ajili yako rafiki yangu
+113. sv           swedish             	allt för dig min vän
+114. tg           tajik               	ҳама чиз барои ту дӯстам
+115. ta           tamil               	எல்லாம் உனக்காக என் நண்பரே
+116. tt           tatar               	сезнең өчен барысы да дустым
+117. te           telugu              	నా మిత్రమా నీ కోసం
+118. th           thai                	ทุกอย่างสำหรับคุณเพื่อนของฉัน
+119. ti           tigrinya            	ኩሉ ንዓኻ ዓርከይ
+120. ts           tsonga              	hinkwaswo eka wena munghana wa mina
+121. tr           turkish             	her şey senin için dostum
+122. tk           turkmen             	hemme zat seniň üçin dostum
+123. ak           twi                 	biribiara ma wo m’adamfo
+124. uk           ukrainian           	все для тебе друже
+125. ur           urdu                	میرے دوست آپ کے لئے سب کچھ
+126. ug           uyghur              	دوستۇم
+127. uz           uzbek               	Do'stim sen uchun hammasi
+128. vi           vietnamese          	tất cả mọi thứ cho bạn bạn của tôi
+129. cy           welsh               	popeth i chi fy ffrind
+130. xh           xhosa               	yonke into yakho sihlobo sam
+131. yi           yiddish             	אַלץ פֿאַר דיר מיין פרייַנד
+132. yo           yoruba              	ohun gbogbo fun o ore mi
+133. zu           zulu                	konke ngawe mngani wami
+------------------------------------------------------------
+Ok
